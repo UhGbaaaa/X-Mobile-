@@ -671,7 +671,7 @@ function Kavo.CreateLib(kavName, themeList)
                 btnInfo.BackgroundTransparency = 1.000
                 btnInfo.Position = UDim2.new(0.096704483, 0, 0.272727281, 0)
                 btnInfo.Size = UDim2.new(0, 314, 0, 14)
-                btnInfo.Font = Enum.Font.GothamSemibold
+                btnInfo.Font = font
                 btnInfo.Text = bname
                 btnInfo.RichText = true
                 btnInfo.TextColor3 = themeList.TextColor
